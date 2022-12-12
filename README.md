@@ -49,9 +49,9 @@
 
 ## Nosso Time
 
-![38](https://user-images.githubusercontent.com/112576141/207091998-2c207714-dbca-403a-8073-d1e285cded05.png)
 ![39](https://user-images.githubusercontent.com/112576141/207092062-6c2abbce-4252-4786-b3dd-97fef5671060.png)
 ![40](https://user-images.githubusercontent.com/112576141/207092077-2c16e70f-3340-4b0f-af2a-1dd60d20f18c.png)
+![38](https://user-images.githubusercontent.com/112576141/207091998-2c207714-dbca-403a-8073-d1e285cded05.png)
 ![41](https://user-images.githubusercontent.com/112576141/207092118-92ee6335-68ff-44b3-ae21-434385f67472.png)
 
 
